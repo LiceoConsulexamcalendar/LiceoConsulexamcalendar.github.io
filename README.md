@@ -9,7 +9,7 @@
 <ul>
   <li><a href="">Tutorials</a></li>
   <li><a href="">Calendar</a></li>
-  <li><a href="">Links to calendars</a></li>
+  <li><a href="https://liceoconsulexamcalendar.github.io/">Links to calendars</a></li>
   <li><a href="">About Us</a></li>
   <li><a href="">Contact Teachers</a></li>
 </ul>
